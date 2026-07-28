@@ -1,4 +1,13 @@
 {
+  "homepage": "https://yourusername.github.io/Health-Shield-AI-Disease-Outbreak-Early-Warning-Platform",
+  "scripts": {
+    "build": "vite build",
+    "deploy": "gh-pages -d dist"
+  }
+}
+
+
+{
   "name": "figma-make-app",
   "private": true,
   "version": "1.0.0",
